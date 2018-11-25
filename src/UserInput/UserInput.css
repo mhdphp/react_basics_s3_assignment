@@ -1,0 +1,12 @@
+.UserInput {
+  max-width: 40%;
+  margin:10px auto;
+  padding:6px 0;
+  background-color:#cccc66;
+  text-align:center;
+  border:1px solid #000;
+  font-size:1em;
+  font-family: Helvetica;
+  color: #011b41;
+  display: all;
+}

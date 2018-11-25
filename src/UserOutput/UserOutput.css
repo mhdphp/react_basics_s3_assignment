@@ -1,0 +1,12 @@
+.UserOutput {
+  max-width: 40%;
+  margin:10px auto;
+  padding:6px 0;
+  background-color:#013238;
+  text-align:center;
+  border:1px solid #000;
+  font-size:1em;
+  font-family: Helvetica;
+  color: #e5fce6;
+  /* display: none; */
+}
